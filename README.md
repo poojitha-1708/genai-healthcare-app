@@ -90,6 +90,4 @@ Example:
 ```text
 Estimated Calories:
 450 - 550 kcal
-```text
-Estimated Calories:
-450 - 550 kcal
+
